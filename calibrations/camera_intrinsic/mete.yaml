@@ -1,0 +1,23 @@
+camera_matrix:
+  cols: 3
+  data: [333.1240293496587, 0.0, 313.11771432461023, 0.0, 333.5716962678167, 246.2981350768619,
+    0.0, 0.0, 1.0]
+  rows: 3
+camera_name: mete/camera_node
+distortion_coefficients:
+  cols: 5
+  data: [-0.2624520295704823, 0.0456945105061734, 0.002981729648813726, -0.000573377904365466,
+    0.0]
+  rows: 1
+distortion_model: plumb_bob
+image_height: 480
+image_width: 640
+projection_matrix:
+  cols: 4
+  data: [220.1709747314453, 0.0, 311.6626019104842, 0.0, 0.0, 275.40447998046875,
+    253.0862193969151, 0.0, 0.0, 0.0, 1.0, 0.0]
+  rows: 3
+rectification_matrix:
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+  rows: 3
